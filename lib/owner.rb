@@ -28,4 +28,7 @@ class Owner
     @@count = 0
   end
   
+  def cats
+    
+  end
 end
